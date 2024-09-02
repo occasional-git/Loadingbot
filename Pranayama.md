@@ -1,5 +1,3 @@
-Here's the table with the "Benefits" column placed before the "Procedure" column:
-
 | **Pranayama**              | **Benefits**                                         | **Procedure**                                                                                                                                                                                                 |
 |----------------------------|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Anulom Vilom** (Alternate Nostril Breathing) | Balances energy, calms the mind, improves concentration. | 1. Sit comfortably with your spine straight.<br>2. Close right nostril with your thumb.<br>3. Inhale through left nostril.<br>4. Close left nostril, open right, and exhale.<br>5. Repeat the cycle for 5-10 minutes.  |
@@ -11,5 +9,3 @@ Here's the table with the "Benefits" column placed before the "Procedure" column
 | **Bhramari** (Bee Breath)                     | Relieves stress, reduces anxiety, induces a meditative state. | 1. Sit in a quiet place.<br>2. Close eyes and ears with thumbs.<br>3. Inhale deeply.<br>4. Exhale slowly, making a humming sound.<br>5. Focus on vibrations and repeat for 5-10 minutes.                                   |
 | **Surya Bhedana** (Right Nostril Breathing)   | Increases energy, stimulates the nervous system, enhances alertness. | 1. Sit comfortably with a straight spine.<br>2. Close the left nostril with your ring finger.<br>3. Inhale deeply through the right nostril.<br>4. Close right nostril, open left, and exhale.<br>5. Repeat for 5-10 minutes. |
 | **Chandra Bhedana** (Left Nostril Breathing)  | Induces relaxation, reduces stress, cools the body.  | 1. Sit comfortably with a straight back.<br>2. Close the right nostril with your thumb.<br>3. Inhale deeply through the left nostril.<br>4. Close left nostril, open right, and exhale.<br>5. Repeat for 5-10 minutes.    |
-
-This format places the benefits first, allowing for a quick understanding of the advantages before diving into the procedures.
